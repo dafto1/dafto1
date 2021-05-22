@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 my tools 🛠️ and languages 
    
 
-https://img.shields.io/badge/IDE%20-VSCODE-green
+
