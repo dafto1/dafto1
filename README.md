@@ -1,8 +1,8 @@
 ### Hi there 
--If debugging is the process of removing bugs, then programming must be the process of putting them in.
 
 - 🌱 I’m currently learning C++ 
 - I know C, HTML and CSS 
+- i would love to be a part of any project :)
 
 
 <!--
