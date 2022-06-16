@@ -1,5 +1,5 @@
 ##                                                    Hello there 
-   I am a 15 year old programmer. I am a learner. Currently learning Python.
+  
 ________________________________________________________________________________________________________________________________
 ## MY SKILLS
 ![](https://img.shields.io/badge/lanuguage-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
