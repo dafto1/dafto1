@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/editor-IntelliJ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 
 
-##Contributions
+
 ![snake gif](https://github.com/dafto1/dafto1/blob/output/github-contribution-grid-snake.gif)
 
 
