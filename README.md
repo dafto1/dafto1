@@ -6,7 +6,7 @@ ________________________________________________________________________________
 ![](https://img.shields.io/badge/lanuguage-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&blue)
 ![](https://img.shields.io/badge/web-HTML/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&blue)
 ![](https://img.shields.io/badge/web-JavasScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&blue)
-
+![](https://img.shields.io/badge/web-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&blue)
 *********************************************************************************************************************************
 <!--
 **S-h-reyash/S-h-reyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
