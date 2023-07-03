@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/dafto1/dafto1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/dafto1/dafto1/blob/output/github-contribution-grid-snake.svg)
 
 
