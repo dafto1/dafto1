@@ -21,9 +21,8 @@
 ![](https://img.shields.io/badge/web-JavaScript-informational?style=flat&logo=javascript&logoColor=white&blue)
 ![](https://img.shields.io/badge/language-Python-informational?style=flat&logo=python&logoColor=white&blue)
 ![](https://img.shields.io/badge/language-Dart-informational?style=flat&logo=dart&logoColor=white&blue)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/editor-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
 
 
 ## CONTRIBUTION CHART
