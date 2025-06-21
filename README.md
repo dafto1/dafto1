@@ -11,7 +11,7 @@
 
 
 
-![](https://img.shields.io/badge/editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
 
 
 
